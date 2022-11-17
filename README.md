@@ -1,6 +1,6 @@
 **Weather App** is a live weather forecasting.
 
-![ScreenShots](https://github.com/agrajagrawal/WeatherApp/blob/master/WeatherApp.png)
+![ScreenShots](https://github.com/animesh624/Weather-Forecast/blob/master/asset/Screenshot%20(1).png)
 
 ## Features
 
