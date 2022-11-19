@@ -10,7 +10,7 @@
   * Temperature in Celcius
   * Windspeed 
   * Longitude Latitude 
-  * Pressure and Humidity
+  * Pressure and Humidity 
   
 ## API Used 
 
